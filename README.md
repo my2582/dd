@@ -1,5 +1,7 @@
 # Due-diligence
-I conducted due-diligence on nine hedge fund managers in New York with my colleagues and analysts at Albournce in April 2011. I wrote a full report about it, which obvisouly I am not allowed to share with here. Probably listing up questions in that report would be the best I can do to give you sense of my work.
+I conducted due-diligence on nine hedge fund managers in New York with my colleagues and analysts at [Albournce](https://www-us.albourne.com/albourne/home) from April 23, 2011 to April 30, 2011. I wrote a full report about it, which obvisouly I am not allowed to share with here. Probably listing up questions in that report would be the best I can do to give you sense of my work.
+
+**Relevant working experience:** January 2010 to February 2013 as a risk manager at Korea Investment Management (Seoul, KR)
 
 ## Questions in the due-diligence report
 #### 1) How to calculate portfolio NAVs
